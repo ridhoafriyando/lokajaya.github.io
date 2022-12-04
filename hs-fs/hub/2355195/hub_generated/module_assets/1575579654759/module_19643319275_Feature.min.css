@@ -1,0 +1,1 @@
+.featureWrapper{display:flex;align-items:center;justify-content:space-around}.feature__content,.feature__image{flex:1}.feature__image.left{order:-1;margin-right:60px}.feature__image.alignRight{margin-left:60px}@media screen and (max-width:767px){.featureWrapper{display:block}.feature__image.alignRight{float:none;text-align:unset;margin:0}.feature__image.left{margin:0}}
